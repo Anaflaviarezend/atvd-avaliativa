@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21da2666-4e34-43db-bb05-7fb12cfde730": {
+      "ProjectGuid": "21da2666-4e34-43db-bb05-7fb12cfde730",
+      "DisplayName": "atvd avaliativa",
+      "ColorIndex": 0
+    },
+    "29260880-0f5c-4ba4-b8b7-10c8a00c3763": {
+      "ProjectGuid": "29260880-0f5c-4ba4-b8b7-10c8a00c3763",
+      "DisplayName": "Model",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

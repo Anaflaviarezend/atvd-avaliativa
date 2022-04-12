@@ -1,0 +1,35 @@
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.exe.config
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.exe
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.pdb
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.AssemblyReference.cache
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd_avaliativa.Properties.Resources.resources
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.GenerateResource.cache
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.exe
+C:\Users\ana.ftrezende\Documents\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.pdb
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.AssemblyReference.cache
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd_avaliativa.frmCadastro.resources
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd_avaliativa.Login.resources
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd_avaliativa.frmProduto.resources
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd_avaliativa.Properties.Resources.resources
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.GenerateResource.cache
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.exe
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.pdb
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\x86\sqlite3.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\x64\sqlite3.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.exe.config
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.exe
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\atvd avaliativa.pdb
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\EasyEncryption.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\EntityFramework.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\System.Data.SQLite.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\EntityFramework.xml
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\bin\Debug\System.Data.SQLite.xml
+C:\Users\ana.ftrezende\Desktop\atvd avaliativa\atvd avaliativa\obj\Debug\atvd avaliativa.csproj.CopyComplete
